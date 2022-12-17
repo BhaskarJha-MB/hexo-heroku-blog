@@ -1,5 +1,6 @@
 ---
 title: Understanding package-lock.json
+author: Bhaskar Jha
 ---
 
 ## What are package.json and package-lock.json

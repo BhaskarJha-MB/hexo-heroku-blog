@@ -1,5 +1,6 @@
 ---
 title: Path Module in Node.js
+author: Bhaskar Jha
 ---
 
 ## Introduction:
