@@ -2,8 +2,6 @@
 title: Path Module in Node.js
 ---
 
-# Path Module in Node.js
-
 ## Introduction:
 
 The path module is an inbuilt module in Node.js which provides the means to deal with the path of files and folders. The utilities provides by it are very useful in Node.js projects as the users who download a project and use may not have the exact same directory structure and thus the absolute path of the resources the project uses may be different. Also, different operating systems deal with paths differently. Hence to remove any inconsistencies in the path for different users or different operating systems, the path module is used.

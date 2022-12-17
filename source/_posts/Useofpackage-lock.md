@@ -2,8 +2,6 @@
 title: Understanding package-lock.json
 ---
 
-# Understanding package-lock.json
-
 ## What are package.json and package-lock.json
 
 package.json and package-lock.json are versioning files which list the dependencies of our node.js project. package.json is created as soon as we initialise npm (Node Package Manager) in our project using the following command:
