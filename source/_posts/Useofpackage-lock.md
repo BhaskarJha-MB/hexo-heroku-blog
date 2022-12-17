@@ -1,3 +1,7 @@
+---
+title: Understanding package-lock.json
+---
+
 # Understanding package-lock.json
 
 ## What are package.json and package-lock.json
